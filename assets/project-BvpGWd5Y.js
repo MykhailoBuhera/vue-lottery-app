@@ -1,0 +1,1 @@
+var e={fullName:`Бугера М.О.`,group:`Група 343`,githubUrl:`https://github.com/MykhailoBuhera`},t=`https://github.com/MykhailoBuhera/vue-lottery-app`;export{t as n,e as t};
