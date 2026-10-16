@@ -1,7 +1,6 @@
-// TODO: підставте свої дані перед здачею
 export const AUTHOR = {
-  fullName: 'Прізвище Ім’я По батькові',
-  group: 'Група ___',
+  fullName: 'Бугера М.О.',
+  group: 'Група 343',
   githubUrl: 'https://github.com/MykhailoBuhera',
 }
 
